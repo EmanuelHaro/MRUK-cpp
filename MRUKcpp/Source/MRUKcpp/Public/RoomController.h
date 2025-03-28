@@ -6,6 +6,7 @@
 #include "GameFramework/Actor.h"
 #include "RoomController.generated.h"
 
+
 UCLASS()
 class MRUKCPP_API ARoomController : public AActor
 {

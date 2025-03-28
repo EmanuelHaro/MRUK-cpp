@@ -8,7 +8,7 @@ public class MRUKcpp : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "MRUtilityKit" });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
